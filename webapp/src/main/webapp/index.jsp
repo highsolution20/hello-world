@@ -13,7 +13,6 @@
       <h1 class="text-center">We are testing to see Tomcat behavior</h1>
       <h2 class="text-center">It is working as expect</h2>
       <p>This is a nice experience for me to push and deploy my war file to tomcat server</p>
-      <Button>Click this link</Button>
   </div>
 </body>
 </html>
